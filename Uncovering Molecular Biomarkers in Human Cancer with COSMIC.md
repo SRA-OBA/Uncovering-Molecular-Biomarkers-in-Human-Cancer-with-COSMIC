@@ -1,12 +1,10 @@
-**Author: **Salaam Ridwan.
+**Author:** Salaam Ridwan.
 
 **Submitted to:** HackBio
 
 **Date:** 02/09/2024****
 
-** **
-
-**Uncovering Molecular Biomarkers in Human Cancer with COSMIC**
+### Uncovering Molecular Biomarkers in Human Cancer with COSMIC
 
 Before the release of the Catalogue of Somatic Mutations in Cancer (COSMIC) in 2004, manual curation of gene profiles provided information about deep mutations associated with known cancer genes. Given the remarkable number of human cancer diseases (about 2500), there was an apparent need to classify, stratify, and curate the mutations and cancer genomes. In this way, there would be an excellent annotation to human genome annotations to identify events associated with cancer development (Forbes _et al.,_ 2014). This need led to the development of COSMIC (available at: https\://cancer.sanger.ac.uk/cosmic), a web server containing comprehensive resources to explore somatic mutations in human cancer.
 
@@ -18,7 +16,7 @@ Cancer biologists benefit greatly from using COSMIC because it enables them to a
 
 Finally, COSMIC has been used in various studies since its inception. For instance, a study conducted by Sun et al. (2023) revealed KCNK1 as an overexpressed gene in breast cancer using a combination of The Cancer Genome Atlas (TCGA), Gene Set Enrichment Analysis (GSEA), COSMIC, and a host of other databases for data collection and visualization. Clearly, exploring and mastering the use of COSMIC is an important tool for budding and experienced cancer biologists to uncover molecular biomarkers.
 
- **References**
+### References
 
 Alexandrov, L. B., Kim, J., Haradhvala, N. J., Huang, M. N., Tian Ng, A. W., Wu, Y., Boot, A., Covington, K. R., Gordenin, D. A., Bergstrom, E. N., Islam, S. M. A., Lopez-Bigas, N., Klimczak, L. J., McPherson, J. R., Morganella, S., Sabarinathan, R., Wheeler, D. A., Mustonen, V., Getz, G., & Rozen, S. G. (2020). The repertoire of mutational signatures in human cancer. _Nature_, _578_(7793), 94–101. https\://doi.org/10.1038/s41586-020-1943-3
 
